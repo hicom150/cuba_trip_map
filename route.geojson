@@ -18,11 +18,14 @@
 { "type": "Feature", "properties": { "name": "Sancti Spiritus", "marker-symbol": "4" }, "geometry": { "type": "Point", "coordinates": [ -79.438436, 21.931985 ] } },
 { "type": "Feature", "properties": { "name": "Trinidad", "marker-symbol": "5" }, "geometry": { "type": "Point", "coordinates": [ -79.983923, 21.806462 ] } },
 { "type": "Feature", "properties": { "name": "Cienfuegos", "marker-symbol": "6" }, "geometry": { "type": "Point", "coordinates": [ -80.442322, 22.146161 ] } },
-{ "type": "Feature", "properties": { "name": "Playa Girón", "marker-symbol": "7" }, "geometry": { "type": "Point", "coordinates": [ -81.028449, 22.069430 ] } },
-{ "type": "Feature", "properties": { "name": "Playa Larga", "marker-symbol": "8" }, "geometry": { "type": "Point", "coordinates": [ -81.204218, 22.284260 ] } },
-{ "type": "Feature", "properties": { "name": "Jagüey Grande", "marker-symbol": "9" }, "geometry": { "type": "Point", "coordinates": [ -81.137635, 22.513674 ] } },
-{ "type": "Feature", "properties": { "name": "La Habana", "marker-symbol": "a" }, "geometry": { "type": "Point", "coordinates": [ -82.385963, 23.123933 ] } },
-{ "type": "Feature", "properties": { "name": "Palma Rubia", "marker-symbol": "b" }, "geometry": { "type": "Point", "coordinates": [ -83.466785, 22.866069 ] } },
-{ "type": "Feature", "properties": { "name": "Viñales", "marker-symbol": "c" }, "geometry": { "type": "Point", "coordinates": [ -83.709106, 22.616246 ] } }
+{ "type": "Feature", "properties": { "name": "Santa Clara", "marker-symbol": "7" }, "geometry": { "type": "Point", "coordinates": [ -79.9652327, 22.4069559 ] } },
+{ "type": "Feature", "properties": { "name": "Playa Girón", "marker-symbol": "8" }, "geometry": { "type": "Point", "coordinates": [ -81.028449, 22.069430 ] } },
+{ "type": "Feature", "properties": { "name": "Playa Larga", "marker-symbol": "9" }, "geometry": { "type": "Point", "coordinates": [ -81.204218, 22.284260 ] } },
+{ "type": "Feature", "properties": { "name": "Jagüey Grande", "marker-symbol": "a" }, "geometry": { "type": "Point", "coordinates": [ -81.137635, 22.513674 ] } },
+{ "type": "Feature", "properties": { "name": "La Habana", "marker-symbol": "b" }, "geometry": { "type": "Point", "coordinates": [ -82.385963, 23.123933 ] } },
+{ "type": "Feature", "properties": { "name": "Palma Rubia", "marker-symbol": "c" }, "geometry": { "type": "Point", "coordinates": [ -83.466785, 22.866069 ] } },
+{ "type": "Feature", "properties": { "name": "Viñales", "marker-symbol": "d" }, "geometry": { "type": "Point", "coordinates": [ -83.709106, 22.616246 ] } },
+{ "type": "Feature", "properties": { "name": "María la Gorda", "marker-symbol": "e" }, "geometry": { "type": "Point", "coordinates": [ -84.4938952, 21.8200245 ] } },
+{ "type": "Feature", "properties": { "name": "Varadero", "marker-symbol": "f" }, "geometry": { "type": "Point", "coordinates": [ -81.2845165, 23.1362039 ] } }
 ]
 }
